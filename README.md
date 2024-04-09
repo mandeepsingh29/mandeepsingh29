@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **smudgebot29/smudgebot29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some details about me:
@@ -13,4 +13,4 @@ Here are some details about me:
 - 📫 How to reach me: [robinsagoo29@gmail.com](mailto:robinsagoo29@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy experimenting with generative art in my free time.
--->
+
