@@ -1,16 +1,41 @@
 ### Hi there 👋
 
 
-**smudgebot29/smudgebot29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mandeepsingh29/mandeepsingh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
+---
 
-Here are some details about me:
+## Hi there, I'm Mandeep Singh! 👋
 
-- 🔭 I’m currently working on machine learning projects.
-- 🌱 I’m currently learning advanced techniques in natural language processing (NLP) and deep learning.
-- 👯 I’m looking to collaborate on open-source AI projects related to computer vision.
-- 🤔 I’m looking for help with optimizing neural network architectures for deployment on edge devices.
-- 💬 Ask me about my experience with implementing reinforcement learning algorithms.
-- 📫 How to reach me: [robinsagoo29@gmail.com](mailto:robinsagoo29@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy experimenting with generative art in my free time.
+I'm a data science and machine learning enthusiast, passionate about deriving insights from data and building intelligent systems. Welcome to my GitHub profile!
+
+### 🔭 Currently Working On
+- Developing predictive models using machine learning algorithms.
+- Analyzing large datasets to uncover patterns and trends.
+
+### 🌱 Currently Learning
+- Deepening my knowledge of statistical modeling and inference.
+- Exploring advanced topics in deep learning and neural networks.
+
+### 👯 Looking to Collaborate On
+- Open-source projects related to data visualization and exploratory data analysis.
+- Research initiatives that combine data science with domain-specific applications.
+
+### 💬 Ask Me About
+- Data preprocessing techniques and feature engineering strategies.
+- Tools and libraries for data analysis and machine learning.
+
+### 📫 How to Reach Me
+- Email: robinsagoo29@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/mandeep-singh-039427198/)
+
+### 😄 Pronouns
+- He/Him
+
+### ⚡ Fun Facts
+- I enjoy playing sports like cricket and soccer.
+- I love hiking and exploring new trails on weekends!
+
+Let's collaborate and leverage the power of data to drive impactful solutions!
+
+
 
